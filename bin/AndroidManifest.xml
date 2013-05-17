@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="it.AccollaBelli.androidexample"
+    android:versionCode="1"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".UserInterface" android:label="@string/ui_activity"/>
+        <activity android:name=".Fragment" android:label="@string/frag_activity"/>
+        <activity android:name=".InputControls" android:label="@string/inputcontrol_activity"/>
+        <activity android:name=".Buttons" android:label="@string/buttons_activity"/>
+        <activity android:name=".TextFields" android:label="@string/textfields_activity"/>
+        <activity android:name=".Checkboxes" android:label="@string/checkboxes_activity"/>
+        <activity android:name=".RadioButtons" android:label="@string/radiobuttons_activity"/>
+        <activity android:name=".TogglesButton" android:label="@string/togglesbutton_activity"/>
+        <activity android:name=".Spinners" android:label="@string/spinners_activity"/>
+        <activity android:name=".Pickers" android:label="@string/pickers_activity"/>
+        <activity android:name=".InputEvents" android:label="@string/inputevents_activity"/>
+        <activity android:name=".ButtonsEvents" android:label="@string/buttonsevents_activity"/>
+        <activity android:name=".TextFieldsEvents" android:label="@string/textfieldsevents_activity"/>
+        <activity android:name=".CheckboxesEvents" android:label="@string/checkboxesevents_activity"/>
+        <activity android:name=".RadioButtonsEvents" android:label="@string/radiobuttonsevents_activity"/>
+        <activity android:name=".ToggleButtonsEvents" android:label="@string/togglebuttonsevents_activity"/>
+        <activity android:name=".SpinnersEvents" android:label="@string/spinnersevents_activity"/>
+        <activity android:name=".PickersEvents" android:label="@string/pickersevents_activity"/>
+    </application>
+
+</manifest>

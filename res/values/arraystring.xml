@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main">
+        <item >User Interface</item>
+        <item >Fragment</item>
+    </string-array>
+    <string-array name="ui">
+        <item >Input Controls</item>
+        <item >Input Events</item>
+        <item >Menus</item>
+        <item >Action Bar</item>
+        <item >Setting</item>
+        <item >Dialog</item>
+        <item >Notification</item>
+        <item >Toast</item>
+        <item >Search</item>
+        <item >Drag n Drop</item>
+        <item >Accessibility</item>
+        <item >Styles and Themes</item>
+        <item >Custom Components</item>
+    </string-array>
+    <string-array name="fragment">
+        <item >Alert Dialog</item>
+        <item >Dialog</item>
+        <item >Context Menu</item>
+        <item >Custom Animation</item>
+        <item >Layout</item>
+        <item >List</item>
+        <item >Stack</item>
+        <item >Tabs</item>
+    </string-array>
+    <string-array name="spinner">
+        <item >Item 1</item>
+        <item >Item 2</item>
+        <item >Item 3</item>
+        <item >Item 4</item>
+        <item >Item 5</item>
+        <item >Item 6</item>
+        <item >Item 7</item>
+        <item >Item 8</item>
+    </string-array>
+    <string-array name="inputcontrols">
+        <item >Buttons</item>
+        <item >Text Fields</item>
+        <item >Checkboxes</item>
+        <item >Radio Buttons</item>
+        <item >Toggles Button</item>
+        <item >Spinners</item>
+        <item >Pickers</item>
+    </string-array>
+    <string-array name="autocomplete">
+        <item >Europa</item>
+        <item >Africa</item>
+        <item >America</item>
+        <item >Asia</item>
+        <item >Oceania</item>
+    </string-array>
+     <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array>
+    <string-array name = "inputevents">
+        <item>Buttons Events</item>
+        <item>Text Fields Events</item>
+        <item>Checkboxes Events</item>
+        <item>Radio Buttons Events</item>
+        <item>Toggle Buttons Events</item>
+        <item>Spinners Events</item>
+        <item>Pickers Events</item>
+    </string-array>
+    
+</resources>

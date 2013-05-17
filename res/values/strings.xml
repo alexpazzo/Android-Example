@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ui_activity">UI Example</string>
+    <string name="frag_activity">Fragment Example</string>
+    <string name="inputcontrol_activity">Input Control</string>
+    <string name="buttons_activity">Buttons</string>
+    <string name="textfields_activity">Text Fields</string>
+    <string name="inputControl">Input controls are the interactive components in your app\'s user interface.</string>
+    <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="buttontext">This is a Button with text</string>
+    <string name="smallbutontext">This is a small Button with text</string>
+    <string name="imagebuttontext">This is an image Button</string>
+	<string name="imagetextbutton">This is a Button with image and text</string>
+	<string name="buttonexplanation">A button consists of text or an icon (or both text and an icon) that communicates what action occurs when the user touches it.</string>
+	<string name="textfieldsexplanation">A text field allows the user to type text into your app. It can be either single line or multi-line. Touching a text field places the cursor and automatically displays the keyboard. In addition to typing, text fields allow for a variety of other activities, such as text selection (cut, copy, paste) and data look-up via auto-completion.</string>
+	<string name="textfieldemail">E-mail address</string>
+	<string name="textfieldpassword">Password with hint</string>
+	<string name="passwhint">Insert passw</string>
+	<string name="textfieldsphone">Phone number</string>
+	<string name="textfieldsmulti">Multi line text</string>
+	<string name="textfieldsdatetime">Date and time</string>
+	<string name="textfieldsnumber">Number</string>
+	<string name="plaintexthint">Click here</string>
+	<string name="textfieldautocomplete">Autocomplete</string>
+	<string name="textfieldautocompletehint">Continent</string>
+	<string name="checkboxesexplanation">Checkboxes allow the user to select one or more options from a set. Typically, you should present each checkbox option in a vertical list.</string>
+	<string name="checkboxes_activity">Checkboxes</string>
+	<string name="checkboxestitle">Select the Ingredients for the Pizza:</string>
+	<string name="checkboxesingr1">Spicy salami</string>
+	<string name="checkboxesingr2">Würstel</string>
+	<string name="checkboxesingr3">French fries</string>
+	<string name="checkboxesingr4">Buffalo mozzarella</string>
+	<string name="checkboxesingr5">Sausage</string>
+	<string name="radiobuttonsexplanation">Radio buttons allow the user to select one option from a set. You should use radio buttons for optional sets that are mutually exclusive if you think that the user needs to see all available options side-by-side.</string>
+	<string name="radiobuttonstext">Do you think this app is interesting?</string>
+	<string name="yes">Yes</string>
+	<string name="maybe">Maybe</string>
+	<string name="no">No</string>
+	<string name="radiobuttons_activity">Radio Buttons</string>
+	<string name="togglesbuttonexplanation">A toggle button allows the user to change a setting between two states.</string>
+	<string name="togglesbutton_activity">Toggles Button</string>
+	<string name="togglebutton">Toggle Button</string>
+	<string name="spinnersexplanation">Spinners provide a quick way to select one value from a set. In the default state, a spinner shows its currently selected value. Touching the spinner displays a dropdown menu with all other available values, from which the user can select a new one.</string>
+	<string name="spinners_activity">Spinners</string>
+	<string name="spinnertext">Choose your favourite planet:</string>
+	<string name="pickersexplanation">Android provides controls for the user to pick a time or pick a date as ready-to-use dialogs. Each picker provides controls for selecting each part of the time (hour, minute, AM/PM) or date (month, day, year). Using these pickers helps ensure that your users can pick a time or date that is valid, formatted correctly, and adjusted to the user\'s locale.</string>
+	<string name="pickers_activity">Pickers</string>
+	<string name="datapicker">Click for data picker</string>
+	<string name="timepicker">Click for time picker</string>
+	<string name="inputevents_activity">Input Events</string>
+	<string name="buttonsevents_activity">Buttons Events</string>
+    <string name="imagebutton2text">This is an borderless image Button </string>
+    <string name="textfieldsevents_activity">Text Fields Events</string>
+    <string name="checkboxesevents_activity">Checkboxes Events</string>
+    <string name="radiobuttonsevents_activity">Radio Buttons Events</string>
+    <string name="togglebuttonsevents_activity">Toggle Buttons Events</string>
+    <string name="spinnersevents_activity">Spinners Events</string>
+    <string name="pickersevents_activity">Pickers Events</string>
+
+</resources>
